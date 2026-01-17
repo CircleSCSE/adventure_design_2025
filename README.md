@@ -5,7 +5,7 @@
 ## 🔗 관련 자료 (Assets)
 
 - **📸 [프로젝트 시연 및 사진 기록](https://photos.app.goo.gl/qaCueMtgPUMaJU1m8)**
-- **📄 [최종 발표 자료 (PPT_adventure.pdf)](https://www.notion.so/PPT_adventure.pdf)**
+- **📄 [최종 발표 자료 (PPT_adventure.pdf)](./PPT_adventure.pdf)**
     - *참고: 상세한 하드웨어 설계도와 기능 정의가 포함되어 있습니다.*
 
 ---
